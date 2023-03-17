@@ -21,3 +21,5 @@ function palindrome (string $pal)
     //echo $temp;
     
 }
+palindrome ("Engage le jeu que je le gagne");
+?>
